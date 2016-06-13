@@ -1,1 +1,3 @@
-# rps_trabalho_eng.sof
+# repositorio_trabalho_engenhariaSoftware.sof
+
+--> informações sobre outros arquivos...

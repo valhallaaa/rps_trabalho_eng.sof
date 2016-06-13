@@ -19,13 +19,20 @@ Este diagrama mostra:
     - (A new branch called feature) Um novo ramo chamando recurso (porque nós estamos fazendo 'trabalho recurso 'neste ramo)
      - A viagem que apresentam leva antes de ser incorporada pela mestre
 
+usam galhos(branches) para manter correções de bugs e trabalho recurso separado do nosso mestre (de produção) de ramo. Quando uma mudança está pronto, eles se fundem seu ramo no mestre.
+
+No GitHub, salvo mudanças são chamadas de commits. 
+Cada submissão tem associado a cometer uma mensagem, que é uma descrição explicando porque uma particular mudança foi feita. 
+Commit mensagens capturar o histórico de suas alterações, assim que outros contribuidores pode entender o que você fez e por quê.
+
 
 
 
 
 adicionar alguem para contribuir o repositorio...
 
-nao mostra no perfil de quem é add o pedido de contribuição
-é por um link que chega no email
+nao mostra no perfil de quem é add o pedido de fazer alguma contribuição no respositorio...
+- https://github.com/notifications (não possui link de facil acesso no github)
+- por um link chega um email
 
 

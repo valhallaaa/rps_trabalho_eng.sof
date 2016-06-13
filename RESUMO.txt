@@ -1,0 +1,31 @@
+https://github.com/FraanTineli/trabalho_e.s
+			conta	repositorio_1_projeto
+repositorio: organizar pastas, arquivos, imagens, videos, planilhas, conjunto de dados.
+Quick setup — if you’ve done this kind of thing before
+Configuração rápida - se você tiver feito esse tipo de coisa antes
+We recommend every repository include a README, LICENSE, and .gitignore.
+Recomendamos a cada repositório incluem um README, licença e .gitignore.
+
+
+Step 2. Create a Branch
+Ramificação é a maneira de trabalhar em diferentes versões de um repositório de uma só vez.
+
+Por padrão, o repositório tem um ramo chamado master, que é considerado o ramo definitiva. Nós usamos ramos de experimentar e fazer edições antes de cometer-los a dominar(master).
+
+Quando você cria uma filial fora do branch master, você está fazendo uma cópia, ou instantâneo, de mestre como ele estava naquele momento no tempo. Se alguém fez alterações para o branch master enquanto estava a trabalhar no seu ramo, você pode puxar essas atualizações. (pull in those updates)
+Este diagrama mostra:
+
+    - O branch master
+    - (A new branch called feature) Um novo ramo chamando recurso (porque nós estamos fazendo 'trabalho recurso 'neste ramo)
+     - A viagem que apresentam leva antes de ser incorporada pela mestre
+
+
+
+
+
+adicionar alguem para contribuir o repositorio...
+
+nao mostra no perfil de quem é add o pedido de contribuição
+é por um link que chega no email
+
+
